@@ -1,0 +1,2 @@
+fluent-logger==0.4.4
+PyYAML==3.12
